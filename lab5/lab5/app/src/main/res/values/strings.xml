@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab5</string>
+
+    <string-array name="Masinos">
+        <item>Audi</item>
+        <item>Mercedes</item>
+        <item>BMW</item>
+        <item>Bentley</item>
+        <item>Subaru</item>
+        <item>Ferrari</item>
+        <item>Mitsubishi</item>
+        <item>Volvo</item>
+        <item>Mazeratti</item>
+    </string-array>
+
+</resources>
